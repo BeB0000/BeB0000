@@ -1,1 +1,1 @@
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BeB0000)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BeB0000&theme=high-contrast)
