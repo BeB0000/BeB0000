@@ -1,9 +1,9 @@
 # Hi! I'm Abanoub
 
-A Programming enthusiast who loves to learn and create projects about kernels/OSs and machine learning technology!
+A Programming enthusiast who loves to learn and create projects about kernels/OSs and machine learning technology.
 
 - Still in HighSchool
-- Machine learning and junior low-level programming enthusiast
+- Machine learning and junior low-level developer.
 
 ### Github Statistics
 <p align="left">
