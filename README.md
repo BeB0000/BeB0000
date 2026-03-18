@@ -11,6 +11,3 @@ A Programming enthusiast who loves to learn and create projects about kernels/OS
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BeB0000&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   </a>
 </p>
-
-### Reach me on
-- Dont Have any social media accounts
