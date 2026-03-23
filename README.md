@@ -2,7 +2,6 @@
 
 A Programming enthusiast who loves to learn and create projects about kernels/OSs and machine learning technology.
 
-- Still in HighSchool
 - Junior (Machine learning and low-level) developer.
 
 ### Github Statistics
