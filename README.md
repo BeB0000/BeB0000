@@ -3,7 +3,7 @@
 A Programming enthusiast who loves to learn and create projects about kernels/OSs and machine learning technology.
 
 - Junior (Machine learning and low-level) developer.
-- 7 Github projects ==> 5 private - this repo - 1 public
+- 7 Github projects ==> 5 private , this repo, 1 public
 
 ### Github Statistics
 <p align="left">
